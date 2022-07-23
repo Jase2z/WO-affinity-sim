@@ -1,0 +1,102 @@
+[
+ {
+   "name": "RAW",
+   "modifier": " 0"
+ },
+ {
+   "name": "FRIED",
+   "modifier": " 1"
+ },
+ {
+   "name": "GRILLED",
+   "modifier": " 2"
+ },
+ {
+   "name": "BOILED",
+   "modifier": " 3"
+ },
+ {
+   "name": "ROASTED",
+   "modifier": " 4"
+ },
+ {
+   "name": "STEAMED",
+   "modifier": " 5"
+ },
+ {
+   "name": "BAKED",
+   "modifier": " 6"
+ },
+ {
+   "name": "COOKED",
+   "modifier": " 7"
+ },
+ {
+   "name": "CANDIED",
+   "modifier": " 8"
+ },
+ {
+   "name": "CHOCOLATE_COATED",
+   "modifier": " 9"
+ },
+ {
+   "name": "CHOPPED",
+   "modifier": " 16"
+ },
+ {
+   "name": "DICED",
+   "modifier": " 16"
+ },
+ {
+   "name": "GROUND",
+   "modifier": " 16"
+ },
+ {
+   "name": "UNFERMENTED",
+   "modifier": " 16"
+ },
+ {
+   "name": "ZOMBIEFIED",
+   "modifier": " 16"
+ },
+ {
+   "name": "WHIPPED",
+   "modifier": " 16"
+ },
+ {
+   "name": "MASHED",
+   "modifier": " 32"
+ },
+ {
+   "name": "MINCED",
+   "modifier": " 32"
+ },
+ {
+   "name": "FERMENTING",
+   "modifier": " 32"
+ },
+ {
+   "name": "CLOTTED",
+   "modifier": " 32"
+ },
+ {
+   "name": "WRAPPED",
+   "modifier": " 64"
+ },
+ {
+   "name": "UNDISTILLED",
+   "modifier": " 64"
+ },
+ {
+   "name": "SALTED",
+   "modifier": " -128"
+ },
+ {
+   "name": "FRESH",
+   "modifier": " -128"
+ },
+ {
+   "name": "LIVE",
+   "modifier": " -128"
+ }
+]
