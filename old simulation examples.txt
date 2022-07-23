@@ -1,0 +1,112 @@
+#cooker
+#oven 178, campfire 37, forge 180
+cookers = [["oven", 178], ["campfire", 37], ["rare oven", 179],
+            ["supreme oven", 180]]
+
+# containers
+# ["pottery bowl", 77], ["frypan", 75], ["cauldron", 75], ["plate", 69]
+containers = [["pottery bowl", 77], ["cauldron", 75]]
+
+# make breakfast: oven 178, pottery bowl 77,
+# Ogare's shift 92
+# All veggies are chopped and then cooked. Mashed coud be subtituted
+# for chopped but it doesn't make a differnce.
+# roasted is +4, fried is +1, chopped +16, mashed +32
+# material all vegetarian 22
+# realtemplate none -10
+# modulo'd all summed values(templateID + material + state + realtemplate) by 138.
+pea = [["roasted pea", 62], ["fried pea", 59]] # 1150  58
+corn =[["roasted corn", 48], ["fried corn", 45]] # 32   44
+garlic = [["roasted garlic", 96], ["fried garlic", 93]] # 356
+tomato = [["roasted tomato", 47], ["fried tomato", 44]] # 1135   43
+peaPods = [["roasted pea pods", 50], ["fried pea pods", 47]] # 1138  46
+carrot = [["roasted carrot", 45], ["fried carrot", 42]] # 1133   41
+cucumber = [["roasted cucumber", 21], ["fried cucumber", 18]] #1247  17
+onion = [["roasted onion", 95], ["fried onion", 92]] #355   91
+potato = [["roasted potato", 51], ["fried potato", 48]] #35  47
+lettuce = [["roasted ", 49], ["fried ", 46]] #1137  45
+pumpkin = [["roasted ", 49], ["fried ", 46]] #33   45
+cabbage = [["roasted ", 46], ["fried ", 43]] #1134   42
+
+# all meat is diced, minced and then fried. meat id 92
+# material types:
+# bear	72, beef	73, canine	74, feline	75, dragon	76, fowl	77,
+# game	78, horse	79, human	80, humanoid	81, insect	82, lamb	83,
+# pork	84, seafood	85, snake	86, tough	87
+# realtemplate none -10
+# modulo'd all summed values(templateID + material + state + realtemplate) by 138.
+meat = [["fried meat, bear", 17], ["fried meat, canine", 19],
+        ["fried meat, feline", 20], ["fried meat, game", 23],
+        ["fried meat, horse", 24], ["fried meat, human", 25],
+        ["fried meat, humanoid", 26], ["fried meat, insect", 27]]
+
+# herbs
+# chopped and ground are +16, material all vegetarian 22
+# realtemplate none -10
+# modulo'd all summed values(templateID + material + state + realtemplate) by 138.
+lovage = [["chopped lovage", 105], ["lovage", 89]]# 353
+rosemary =  [["chopped rosemary", 115], ["rosemary", 99]]# 363
+basil = [["chopped basil", 111], ["basil", 95]] # 359
+belladonna = [["chopped belladonna", 113], ["belladonna", 97]] # 361
+mint = [["chopped mint", 54], ["mint", 38]] # 1130
+oregano = [["chopped oregano", 109], ["oregano", 93]] # 357
+parsley = [["chopped parsley", 110], ["parsley", 94]] # 358
+sage = [["chopped sage", 106], ["sage", 90]] # 354
+thyme = [["chopped thyme", 112], ["thyme", 96]] # 360
+fennelPlant = [["chopped fennel plant", 56], ["fennel plant", 40]] # 1132
+# harder to get herbs
+sassafras = [["chopped sassafras", 118], ["sassafras", 102]] # 366
+nettles = [["chopped nettles", 117], ["nettles", 101]] # 365
+
+camellia = [["chopped camellia", 36], ["camellia", 20]] # 422
+
+herbs = (lovage, rosemary, basil, belladonna, mint, oregano,
+        parsley, sage, thyme, fennelPlant)
+
+# spice
+# ground are + 16, material all vegetarian
+# realtemplate none -10
+#modulo'd all summed values(templateID + material + state + realtemplate) by 138.
+fennelSeed = [["ground fennel seed", 75], ["fennel seed", 59]] # 1151
+cumin = [["ground cumin", 64], ["cumin", 48]] # 1140
+paprika =  [["ground paprika", 67], ["paprika", 51]] # 1143
+turmeric = [["ground turmeric", 68], ["turmeric", 52]] # 1144
+ginger = [["ground ginger", 65], ["ginger", 49]] # 1141
+spices = (fennelSeed, cumin, paprika, turmeric, ginger)
+
+# cheeses
+# cheese = 84 (template 66, material dairy 28, realtemplate -10) % 138
+# buffalo cheese = 87 (template 69, material dairy 28, realtemplate -10) % 138
+# feta cheese = 86 (template 68, material dairy 28, realtemplate -10) % 138
+
+# water = 6 (template 128, material water 26, realtemplate -10) % 138
+# salt water = 16 (template 128, material water 26, salted -128,
+#               realtemplate -10) % 138
+water = [["salt water", 16], ["water", 6]]
+
+# sugar = 47 ( template 1139, material veg 22, realtemplate -10) % 138
+# maple syrup = 17 ( template 415, material water 26, realtemplate -10) % 138
+# honey = 89 (template 70, material honey 29, realtemplate -10) % 138
+sweet = [["sugar", 47], ["honey", 89], ["maple syrup", 17]]
+
+# lemon juice = 25 (fuit juice 417, realtemplate lemon 410,
+#                   material water 26) % 138
+# cow milk = 22 (milk 142, material dairy 28, realtemplate -10) % 138
+# sheep milk = 64 (sheep milk 1012, material dairy 28, realtemplate -10) % 138
+# bison milk = 65 (bison milk1013, material dairy 28, realtemplate -10) % 138
+sourSavory = [["lemon juice", 25], ["cow milk", 22], ["sheep milk", 64],
+            ["bison milk", 65]]
+
+teaHerbs = [["chopped lovage", 105], ["chopped rosemary", 115],
+    ["chopped basil", 111], ["chopped belladonna", 113],
+    ["chopped mint", 54], ["chopped oregano", 109],
+    ["chopped parsley", 110], ["chopped sage", 106],
+    ["chopped thyme", 112], ["chopped fennel plant", 56],
+    ["chopped sassafras", 118], ["chopped nettles", 117],
+    ["chopped camellia", 36]]
+
+# ketchup = 119 (template 1211, material veg 22, realtemplate -10) % 138
+
+# cooked fries = 118 (template 1203, material veg 22, realtemplate -10, cstate 7) % 138
+
+
