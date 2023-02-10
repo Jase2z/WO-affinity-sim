@@ -1,0 +1,692 @@
+[
+  {
+    "__recipe__":true,
+    "index":1,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted garlic, 96, fried meat_feline, 20, oregano, 93"
+  },
+  {
+    "__recipe__":true,
+    "index":2,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, fried garlic, 93, fried meat_horse, 24, oregano, 93"
+  },
+  {
+    "__recipe__":true,
+    "index":3,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted onion, 95, fried meat_game, 23, oregano, 93"
+  },
+  {
+    "__recipe__":true,
+    "index":4,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted garlic, 96, fried meat_game, 23, oregano, 93"
+  },
+  {
+    "__recipe__":true,
+    "index":5,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted garlic, 96, fried meat_horse, 24, oregano, 93"
+  },
+  {
+    "__recipe__":true,
+    "index":6,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted onion, 95, fried meat_humanoid, 26, oregano, 93"
+  },
+  {
+    "__recipe__":true,
+    "index":7,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted garlic, 96, fried meat_humanoid, 26, oregano, 93"
+  },
+  {
+    "__recipe__":true,
+    "index":8,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted garlic, 96, fried meat_insect, 27, oregano, 93"
+  },
+  {
+    "__recipe__":true,
+    "index":9,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, fried garlic, 93, fried meat_snake, 31, oregano, 93"
+  },
+  {
+    "__recipe__":true,
+    "index":10,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, fried garlic, 93, fried meat_tough, 32, oregano, 93"
+  },
+  {
+    "__recipe__":true,
+    "index":11,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, fried garlic, 93, fried meat_bear, 17, chopped oregano, 109"
+  },
+  {
+    "__recipe__":true,
+    "index":12,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted garlic, 96, fried meat_snake, 31, oregano, 93"
+  },
+  {
+    "__recipe__":true,
+    "index":13,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted garlic, 96, fried meat_tough, 32, oregano, 93"
+  },
+  {
+    "__recipe__":true,
+    "index":14,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted garlic, 96, fried meat_bear, 17, chopped oregano, 109"
+  },
+  {
+    "__recipe__":true,
+    "index":15,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted garlic, 96, fried meat_beef, 18, chopped oregano, 109"
+  },
+  {
+    "__recipe__":true,
+    "index":16,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted garlic, 96, fried meat_canine, 19, chopped oregano, 109"
+  },
+  {
+    "__recipe__":true,
+    "index":17,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted garlic, 96, fried meat_feline, 20, chopped oregano, 109"
+  },
+  {
+    "__recipe__":true,
+    "index":18,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, fried garlic, 93, fried meat_horse, 24, chopped oregano, 109"
+  },
+  {
+    "__recipe__":true,
+    "index":19,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted onion, 95, fried meat_game, 23, chopped oregano, 109"
+  },
+  {
+    "__recipe__":true,
+    "index":20,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted garlic, 96, fried meat_game, 23, chopped oregano, 109"
+  },
+  {
+    "__recipe__":true,
+    "index":21,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted garlic, 96, fried meat_horse, 24, chopped oregano, 109"
+  },
+  {
+    "__recipe__":true,
+    "index":22,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted onion, 95, fried meat_humanoid, 26, chopped oregano, 109"
+  },
+  {
+    "__recipe__":true,
+    "index":23,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted garlic, 96, fried meat_humanoid, 26, chopped oregano, 109"
+  },
+  {
+    "__recipe__":true,
+    "index":24,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted garlic, 96, fried meat_insect, 27, chopped oregano, 109"
+  },
+  {
+    "__recipe__":true,
+    "index":25,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, fried garlic, 93, fried meat_snake, 31, chopped oregano, 109"
+  },
+  {
+    "__recipe__":true,
+    "index":26,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, fried garlic, 93, fried meat_tough, 32, chopped oregano, 109"
+  },
+  {
+    "__recipe__":true,
+    "index":27,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted onion, 95, fried meat_snake, 31, chopped oregano, 109"
+  },
+  {
+    "__recipe__":true,
+    "index":28,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted garlic, 96, fried meat_snake, 31, chopped oregano, 109"
+  },
+  {
+    "__recipe__":true,
+    "index":29,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted garlic, 96, fried meat_tough, 32, chopped oregano, 109"
+  },
+  {
+    "__recipe__":true,
+    "index":30,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, fried cucumber, 18, fried meat_snake, 31, paprika, 51"
+  },
+  {
+    "__recipe__":true,
+    "index":31,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, fried cucumber, 18, fried meat_tough, 32, paprika, 51"
+  },
+  {
+    "__recipe__":true,
+    "index":32,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, fried cucumber, 18, fried meat_bear, 17, ground paprika, 67"
+  },
+  {
+    "__recipe__":true,
+    "index":33,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted cucumber, 21, fried meat_snake, 31, paprika, 51"
+  },
+  {
+    "__recipe__":true,
+    "index":34,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted cucumber, 21, fried meat_tough, 32, paprika, 51"
+  },
+  {
+    "__recipe__":true,
+    "index":35,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted cucumber, 21, fried meat_bear, 17, ground paprika, 67"
+  },
+  {
+    "__recipe__":true,
+    "index":36,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted cucumber, 21, fried meat_beef, 18, ground paprika, 67"
+  },
+  {
+    "__recipe__":true,
+    "index":37,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted cucumber, 21, fried meat_canine, 19, ground paprika, 67"
+  },
+  {
+    "__recipe__":true,
+    "index":38,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted cucumber, 21, fried meat_feline, 20, ground paprika, 67"
+  },
+  {
+    "__recipe__":true,
+    "index":39,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, fried cucumber, 18, fried meat_horse, 24, ground paprika, 67"
+  },
+  {
+    "__recipe__":true,
+    "index":40,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, fried carrot, 42, fried meat_bear, 17, paprika, 51"
+  },
+  {
+    "__recipe__":true,
+    "index":41,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, fried carrot, 42, fried meat_beef, 18, paprika, 51"
+  },
+  {
+    "__recipe__":true,
+    "index":42,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, fried tomato, 44, fried meat_bear, 17, paprika, 51"
+  },
+  {
+    "__recipe__":true,
+    "index":43,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, fried corn, 45, fried meat_bear, 17, paprika, 51"
+  },
+  {
+    "__recipe__":true,
+    "index":44,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, fried corn, 45, fried meat_beef, 18, paprika, 51"
+  },
+  {
+    "__recipe__":true,
+    "index":45,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, fried corn, 45, fried meat_canine, 19, paprika, 51"
+  },
+  {
+    "__recipe__":true,
+    "index":46,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted corn, 48, fried meat_bear, 17, paprika, 51"
+  },
+  {
+    "__recipe__":true,
+    "index":47,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted corn, 48, fried meat_beef, 18, paprika, 51"
+  },
+  {
+    "__recipe__":true,
+    "index":48,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted corn, 48, fried meat_canine, 19, paprika, 51"
+  },
+  {
+    "__recipe__":true,
+    "index":49,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted corn, 48, fried meat_feline, 20, paprika, 51"
+  },
+  {
+    "__recipe__":true,
+    "index":50,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, fried corn, 45, fried meat_horse, 24, paprika, 51"
+  },
+  {
+    "__recipe__":true,
+    "index":51,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted tomato, 47, fried meat_game, 23, paprika, 51"
+  },
+  {
+    "__recipe__":true,
+    "index":52,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted corn, 48, fried meat_game, 23, paprika, 51"
+  },
+  {
+    "__recipe__":true,
+    "index":53,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted corn, 48, fried meat_horse, 24, paprika, 51"
+  },
+  {
+    "__recipe__":true,
+    "index":54,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted tomato, 47, fried meat_humanoid, 26, paprika, 51"
+  },
+  {
+    "__recipe__":true,
+    "index":55,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted corn, 48, fried meat_humanoid, 26, paprika, 51"
+  },
+  {
+    "__recipe__":true,
+    "index":56,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted corn, 48, fried meat_insect, 27, paprika, 51"
+  },
+  {
+    "__recipe__":true,
+    "index":57,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, fried pea, 59, fried meat_bear, 17, paprika, 51"
+  },
+  {
+    "__recipe__":true,
+    "index":58,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, fried cucumber, 18, fried meat_bear, 17, oregano, 93"
+  },
+  {
+    "__recipe__":true,
+    "index":59,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, fried cucumber, 18, fried meat_beef, 18, oregano, 93"
+  },
+  {
+    "__recipe__":true,
+    "index":60,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, fried cucumber, 18, fried meat_canine, 19, oregano, 93"
+  },
+  {
+    "__recipe__":true,
+    "index":61,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted cucumber, 21, fried meat_bear, 17, oregano, 93"
+  },
+  {
+    "__recipe__":true,
+    "index":62,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted cucumber, 21, fried meat_beef, 18, oregano, 93"
+  },
+  {
+    "__recipe__":true,
+    "index":63,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted cucumber, 21, fried meat_canine, 19, oregano, 93"
+  },
+  {
+    "__recipe__":true,
+    "index":64,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted cucumber, 21, fried meat_feline, 20, oregano, 93"
+  },
+  {
+    "__recipe__":true,
+    "index":65,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, fried cucumber, 18, fried meat_horse, 24, oregano, 93"
+  },
+  {
+    "__recipe__":true,
+    "index":66,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted pea, 62, fried meat_game, 23, paprika, 51"
+  },
+  {
+    "__recipe__":true,
+    "index":67,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted cucumber, 21, fried meat_game, 23, oregano, 93"
+  },
+  {
+    "__recipe__":true,
+    "index":68,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted cucumber, 21, fried meat_horse, 24, oregano, 93"
+  },
+  {
+    "__recipe__":true,
+    "index":69,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted pea, 62, fried meat_humanoid, 26, paprika, 51"
+  },
+  {
+    "__recipe__":true,
+    "index":70,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted cucumber, 21, fried meat_humanoid, 26, oregano, 93"
+  },
+  {
+    "__recipe__":true,
+    "index":71,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted cucumber, 21, fried meat_insect, 27, oregano, 93"
+  },
+  {
+    "__recipe__":true,
+    "index":72,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, fried cucumber, 18, fried meat_snake, 31, oregano, 93"
+  },
+  {
+    "__recipe__":true,
+    "index":73,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, fried cucumber, 18, fried meat_tough, 32, oregano, 93"
+  },
+  {
+    "__recipe__":true,
+    "index":74,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, fried cucumber, 18, fried meat_bear, 17, chopped oregano, 109"
+  },
+  {
+    "__recipe__":true,
+    "index":75,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted cucumber, 21, fried meat_snake, 31, oregano, 93"
+  },
+  {
+    "__recipe__":true,
+    "index":76,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted cucumber, 21, fried meat_tough, 32, oregano, 93"
+  },
+  {
+    "__recipe__":true,
+    "index":77,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted cucumber, 21, fried meat_bear, 17, chopped oregano, 109"
+  },
+  {
+    "__recipe__":true,
+    "index":78,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted cucumber, 21, fried meat_beef, 18, chopped oregano, 109"
+  },
+  {
+    "__recipe__":true,
+    "index":79,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted cucumber, 21, fried meat_canine, 19, chopped oregano, 109"
+  },
+  {
+    "__recipe__":true,
+    "index":80,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted cucumber, 21, fried meat_feline, 20, chopped oregano, 109"
+  },
+  {
+    "__recipe__":true,
+    "index":81,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, fried cucumber, 18, fried meat_horse, 24, chopped oregano, 109"
+  },
+  {
+    "__recipe__":true,
+    "index":82,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, fried carrot, 42, fried meat_bear, 17, oregano, 93"
+  },
+  {
+    "__recipe__":true,
+    "index":83,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, fried carrot, 42, fried meat_beef, 18, oregano, 93"
+  },
+  {
+    "__recipe__":true,
+    "index":84,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, fried tomato, 44, fried meat_bear, 17, oregano, 93"
+  },
+  {
+    "__recipe__":true,
+    "index":85,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, fried corn, 45, fried meat_bear, 17, oregano, 93"
+  },
+  {
+    "__recipe__":true,
+    "index":86,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, fried corn, 45, fried meat_beef, 18, oregano, 93"
+  },
+  {
+    "__recipe__":true,
+    "index":87,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, fried corn, 45, fried meat_canine, 19, oregano, 93"
+  },
+  {
+    "__recipe__":true,
+    "index":88,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted corn, 48, fried meat_bear, 17, oregano, 93"
+  },
+  {
+    "__recipe__":true,
+    "index":89,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted corn, 48, fried meat_beef, 18, oregano, 93"
+  },
+  {
+    "__recipe__":true,
+    "index":90,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted corn, 48, fried meat_canine, 19, oregano, 93"
+  },
+  {
+    "__recipe__":true,
+    "index":91,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted corn, 48, fried meat_feline, 20, oregano, 93"
+  },
+  {
+    "__recipe__":true,
+    "index":92,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, fried corn, 45, fried meat_horse, 24, oregano, 93"
+  },
+  {
+    "__recipe__":true,
+    "index":93,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted tomato, 47, fried meat_game, 23, oregano, 93"
+  },
+  {
+    "__recipe__":true,
+    "index":94,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted corn, 48, fried meat_game, 23, oregano, 93"
+  },
+  {
+    "__recipe__":true,
+    "index":95,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted corn, 48, fried meat_horse, 24, oregano, 93"
+  },
+  {
+    "__recipe__":true,
+    "index":96,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted tomato, 47, fried meat_humanoid, 26, oregano, 93"
+  },
+  {
+    "__recipe__":true,
+    "index":97,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted corn, 48, fried meat_humanoid, 26, oregano, 93"
+  },
+  {
+    "__recipe__":true,
+    "index":98,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted corn, 48, fried meat_insect, 27, oregano, 93"
+  },
+  {
+    "__recipe__":true,
+    "index":99,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, fried pea, 59, fried meat_bear, 17, oregano, 93"
+  },
+  {
+    "__recipe__":true,
+    "index":100,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, fried pea, 59, fried meat_beef, 18, oregano, 93"
+  },
+  {
+    "__recipe__":true,
+    "index":101,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, fried pea, 59, fried meat_canine, 19, oregano, 93"
+  },
+  {
+    "__recipe__":true,
+    "index":102,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted pea, 62, fried meat_bear, 17, oregano, 93"
+  },
+  {
+    "__recipe__":true,
+    "index":103,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted pea, 62, fried meat_beef, 18, oregano, 93"
+  },
+  {
+    "__recipe__":true,
+    "index":104,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted pea, 62, fried meat_canine, 19, oregano, 93"
+  },
+  {
+    "__recipe__":true,
+    "index":105,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted pea, 62, fried meat_feline, 20, oregano, 93"
+  },
+  {
+    "__recipe__":true,
+    "index":106,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, fried pea, 59, fried meat_horse, 24, oregano, 93"
+  },
+  {
+    "__recipe__":true,
+    "index":107,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted corn, 48, fried meat_feline, 20, chopped oregano, 109"
+  },
+  {
+    "__recipe__":true,
+    "index":108,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted pea, 62, fried meat_game, 23, oregano, 93"
+  },
+  {
+    "__recipe__":true,
+    "index":109,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted pea, 62, fried meat_horse, 24, oregano, 93"
+  },
+  {
+    "__recipe__":true,
+    "index":110,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted corn, 48, fried meat_game, 23, chopped oregano, 109"
+  },
+  {
+    "__recipe__":true,
+    "index":111,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted pea, 62, fried meat_humanoid, 26, oregano, 93"
+  },
+  {
+    "__recipe__":true,
+    "index":112,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted pea, 62, fried meat_insect, 27, oregano, 93"
+  },
+  {
+    "__recipe__":true,
+    "index":113,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, fried pea, 59, fried meat_snake, 31, oregano, 93"
+  },
+  {
+    "__recipe__":true,
+    "index":114,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, fried pea, 59, fried meat_tough, 32, oregano, 93"
+  },
+  {
+    "__recipe__":true,
+    "index":115,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, fried pea, 59, fried meat_bear, 17, chopped oregano, 109"
+  },
+  {
+    "__recipe__":true,
+    "index":116,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted pea, 62, fried meat_snake, 31, oregano, 93"
+  },
+  {
+    "__recipe__":true,
+    "index":117,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted pea, 62, fried meat_tough, 32, oregano, 93"
+  },
+  {
+    "__recipe__":true,
+    "index":118,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted pea, 62, fried meat_bear, 17, chopped oregano, 109"
+  },
+  {
+    "__recipe__":true,
+    "index":119,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted pea, 62, fried meat_beef, 18, chopped oregano, 109"
+  },
+  {
+    "__recipe__":true,
+    "index":120,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted pea, 62, fried meat_canine, 19, chopped oregano, 109"
+  },
+  {
+    "__recipe__":true,
+    "index":121,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted pea, 62, fried meat_feline, 20, chopped oregano, 109"
+  },
+  {
+    "__recipe__":true,
+    "index":122,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, fried pea, 59, fried meat_horse, 24, chopped oregano, 109"
+  },
+  {
+    "__recipe__":true,
+    "index":123,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted onion, 95, fried meat_snake, 31, ground paprika, 67"
+  },
+  {
+    "__recipe__":true,
+    "index":124,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted pea, 62, fried meat_game, 23, chopped oregano, 109"
+  },
+  {
+    "__recipe__":true,
+    "index":125,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted pea, 62, fried meat_horse, 24, chopped oregano, 109"
+  },
+  {
+    "__recipe__":true,
+    "index":126,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, fried pea, 59, fried meat_horse, 24, chopped belladonna, 113"
+  },
+  {
+    "__recipe__":true,
+    "index":127,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted pea, 62, fried meat_humanoid, 26, chopped oregano, 109"
+  },
+  {
+    "__recipe__":true,
+    "index":128,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted pea, 62, fried meat_insect, 27, chopped oregano, 109"
+  },
+  {
+    "__recipe__":true,
+    "index":129,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, fried pea, 59, fried meat_snake, 31, chopped oregano, 109"
+  },
+  {
+    "__recipe__":true,
+    "index":130,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, fried pea, 59, fried meat_tough, 32, chopped oregano, 109"
+  },
+  {
+    "__recipe__":true,
+    "index":131,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted pea, 62, fried meat_humanoid, 26, chopped belladonna, 113"
+  },
+  {
+    "__recipe__":true,
+    "index":132,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted pea, 62, fried meat_snake, 31, chopped oregano, 109"
+  },
+  {
+    "__recipe__":true,
+    "index":133,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted pea, 62, fried meat_tough, 32, chopped oregano, 109"
+  },
+  {
+    "__recipe__":true,
+    "index":134,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, fried garlic, 93, fried meat_beef, 18, oregano, 93"
+  },
+  {
+    "__recipe__":true,
+    "index":135,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, fried garlic, 93, fried meat_canine, 19, oregano, 93"
+  },
+  {
+    "__recipe__":true,
+    "index":136,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted garlic, 96, fried meat_bear, 17, oregano, 93"
+  },
+  {
+    "__recipe__":true,
+    "index":137,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted garlic, 96, fried meat_beef, 18, oregano, 93"
+  },
+  {
+    "__recipe__":true,
+    "index":138,
+    "desc":"toon offset, 87, rare forge, 43, frying_pan, 75, roasted garlic, 96, fried meat_canine, 19, oregano, 93"
+  }
+]

@@ -1,0 +1,138 @@
+Mind, 1, toon offset, 87, rare forge, 43, frying_pan, 75, roasted garlic, 96, fried meat_feline, 20, oregano, 93
+Body, 2, toon offset, 87, rare forge, 43, frying_pan, 75, fried garlic, 93, fried meat_horse, 24, oregano, 93
+Soul, 3, toon offset, 87, rare forge, 43, frying_pan, 75, roasted onion, 95, fried meat_game, 23, oregano, 93
+Body control, 4, toon offset, 87, rare forge, 43, frying_pan, 75, roasted garlic, 96, fried meat_game, 23, oregano, 93
+Body stamina, 5, toon offset, 87, rare forge, 43, frying_pan, 75, roasted garlic, 96, fried meat_horse, 24, oregano, 93
+Body strength, 6, toon offset, 87, rare forge, 43, frying_pan, 75, roasted onion, 95, fried meat_humanoid, 26, oregano, 93
+Mind logic, 7, toon offset, 87, rare forge, 43, frying_pan, 75, roasted garlic, 96, fried meat_humanoid, 26, oregano, 93
+Mind speed, 8, toon offset, 87, rare forge, 43, frying_pan, 75, roasted garlic, 96, fried meat_insect, 27, oregano, 93
+Soul depth, 9, toon offset, 87, rare forge, 43, frying_pan, 75, fried garlic, 93, fried meat_snake, 31, oregano, 93
+Soul strength, 10, toon offset, 87, rare forge, 43, frying_pan, 75, fried garlic, 93, fried meat_tough, 32, oregano, 93
+Swords, 11, toon offset, 87, rare forge, 43, frying_pan, 75, fried garlic, 93, fried meat_bear, 17, chopped oregano, 109
+Axes, 12, toon offset, 87, rare forge, 43, frying_pan, 75, roasted garlic, 96, fried meat_snake, 31, oregano, 93
+Knives, 13, toon offset, 87, rare forge, 43, frying_pan, 75, roasted garlic, 96, fried meat_tough, 32, oregano, 93
+Mauls, 14, toon offset, 87, rare forge, 43, frying_pan, 75, roasted garlic, 96, fried meat_bear, 17, chopped oregano, 109
+Clubs, 15, toon offset, 87, rare forge, 43, frying_pan, 75, roasted garlic, 96, fried meat_beef, 18, chopped oregano, 109
+Hammers, 16, toon offset, 87, rare forge, 43, frying_pan, 75, roasted garlic, 96, fried meat_canine, 19, chopped oregano, 109
+Archery, 17, toon offset, 87, rare forge, 43, frying_pan, 75, roasted garlic, 96, fried meat_feline, 20, chopped oregano, 109
+Polearms, 18, toon offset, 87, rare forge, 43, frying_pan, 75, fried garlic, 93, fried meat_horse, 24, chopped oregano, 109
+Tailoring, 19, toon offset, 87, rare forge, 43, frying_pan, 75, roasted onion, 95, fried meat_game, 23, chopped oregano, 109
+Cooking, 20, toon offset, 87, rare forge, 43, frying_pan, 75, roasted garlic, 96, fried meat_game, 23, chopped oregano, 109
+Smithing, 21, toon offset, 87, rare forge, 43, frying_pan, 75, roasted garlic, 96, fried meat_horse, 24, chopped oregano, 109
+Weapon smithing, 22, toon offset, 87, rare forge, 43, frying_pan, 75, roasted onion, 95, fried meat_humanoid, 26, chopped oregano, 109
+Armour smithing, 23, toon offset, 87, rare forge, 43, frying_pan, 75, roasted garlic, 96, fried meat_humanoid, 26, chopped oregano, 109
+Miscellaneous items, 24, toon offset, 87, rare forge, 43, frying_pan, 75, roasted garlic, 96, fried meat_insect, 27, chopped oregano, 109
+Shields, 25, toon offset, 87, rare forge, 43, frying_pan, 75, fried garlic, 93, fried meat_snake, 31, chopped oregano, 109
+Alchemy, 26, toon offset, 87, rare forge, 43, frying_pan, 75, fried garlic, 93, fried meat_tough, 32, chopped oregano, 109
+Nature, 27, toon offset, 87, rare forge, 43, frying_pan, 75, roasted onion, 95, fried meat_snake, 31, chopped oregano, 109
+Toys, 28, toon offset, 87, rare forge, 43, frying_pan, 75, roasted garlic, 96, fried meat_snake, 31, chopped oregano, 109
+Fighting, 29, toon offset, 87, rare forge, 43, frying_pan, 75, roasted garlic, 96, fried meat_tough, 32, chopped oregano, 109
+Healing, 30, toon offset, 87, rare forge, 43, frying_pan, 75, fried cucumber, 18, fried meat_snake, 31, paprika, 51
+Religion, 31, toon offset, 87, rare forge, 43, frying_pan, 75, fried cucumber, 18, fried meat_tough, 32, paprika, 51
+Thievery, 32, toon offset, 87, rare forge, 43, frying_pan, 75, fried cucumber, 18, fried meat_bear, 17, ground paprika, 67
+War machines, 33, toon offset, 87, rare forge, 43, frying_pan, 75, roasted cucumber, 21, fried meat_snake, 31, paprika, 51
+Farming, 34, toon offset, 87, rare forge, 43, frying_pan, 75, roasted cucumber, 21, fried meat_tough, 32, paprika, 51
+Papyrusmaking, 35, toon offset, 87, rare forge, 43, frying_pan, 75, roasted cucumber, 21, fried meat_bear, 17, ground paprika, 67
+Thatching, 36, toon offset, 87, rare forge, 43, frying_pan, 75, roasted cucumber, 21, fried meat_beef, 18, ground paprika, 67
+Gardening, 37, toon offset, 87, rare forge, 43, frying_pan, 75, roasted cucumber, 21, fried meat_canine, 19, ground paprika, 67
+Meditating, 38, toon offset, 87, rare forge, 43, frying_pan, 75, roasted cucumber, 21, fried meat_feline, 20, ground paprika, 67
+Forestry, 39, toon offset, 87, rare forge, 43, frying_pan, 75, fried cucumber, 18, fried meat_horse, 24, ground paprika, 67
+Rake, 40, toon offset, 87, rare forge, 43, frying_pan, 75, fried carrot, 42, fried meat_bear, 17, paprika, 51
+Scythe, 41, toon offset, 87, rare forge, 43, frying_pan, 75, fried carrot, 42, fried meat_beef, 18, paprika, 51
+Sickle, 42, toon offset, 87, rare forge, 43, frying_pan, 75, fried tomato, 44, fried meat_bear, 17, paprika, 51
+Small Axe, 43, toon offset, 87, rare forge, 43, frying_pan, 75, fried corn, 45, fried meat_bear, 17, paprika, 51
+Mining, 44, toon offset, 87, rare forge, 43, frying_pan, 75, fried corn, 45, fried meat_beef, 18, paprika, 51
+Digging, 45, toon offset, 87, rare forge, 43, frying_pan, 75, fried corn, 45, fried meat_canine, 19, paprika, 51
+Pickaxe, 46, toon offset, 87, rare forge, 43, frying_pan, 75, roasted corn, 48, fried meat_bear, 17, paprika, 51
+Shovel, 47, toon offset, 87, rare forge, 43, frying_pan, 75, roasted corn, 48, fried meat_beef, 18, paprika, 51
+Pottery, 48, toon offset, 87, rare forge, 43, frying_pan, 75, roasted corn, 48, fried meat_canine, 19, paprika, 51
+Ropemaking, 49, toon offset, 87, rare forge, 43, frying_pan, 75, roasted corn, 48, fried meat_feline, 20, paprika, 51
+Woodcutting, 50, toon offset, 87, rare forge, 43, frying_pan, 75, fried corn, 45, fried meat_horse, 24, paprika, 51
+Hatchet, 51, toon offset, 87, rare forge, 43, frying_pan, 75, roasted tomato, 47, fried meat_game, 23, paprika, 51
+Leatherworking, 52, toon offset, 87, rare forge, 43, frying_pan, 75, roasted corn, 48, fried meat_game, 23, paprika, 51
+Cloth tailoring, 53, toon offset, 87, rare forge, 43, frying_pan, 75, roasted corn, 48, fried meat_horse, 24, paprika, 51
+Masonry, 54, toon offset, 87, rare forge, 43, frying_pan, 75, roasted tomato, 47, fried meat_humanoid, 26, paprika, 51
+Blades smithing, 55, toon offset, 87, rare forge, 43, frying_pan, 75, roasted corn, 48, fried meat_humanoid, 26, paprika, 51
+Weapon heads smithing, 56, toon offset, 87, rare forge, 43, frying_pan, 75, roasted corn, 48, fried meat_insect, 27, paprika, 51
+Chain armour smithing, 57, toon offset, 87, rare forge, 43, frying_pan, 75, fried pea, 59, fried meat_bear, 17, paprika, 51
+Plate armour smithing, 58, toon offset, 87, rare forge, 43, frying_pan, 75, fried cucumber, 18, fried meat_bear, 17, oregano, 93
+Shield smithing, 59, toon offset, 87, rare forge, 43, frying_pan, 75, fried cucumber, 18, fried meat_beef, 18, oregano, 93
+Blacksmithing, 60, toon offset, 87, rare forge, 43, frying_pan, 75, fried cucumber, 18, fried meat_canine, 19, oregano, 93
+Dairy food making, 61, toon offset, 87, rare forge, 43, frying_pan, 75, roasted cucumber, 21, fried meat_bear, 17, oregano, 93
+Hot food cooking, 62, toon offset, 87, rare forge, 43, frying_pan, 75, roasted cucumber, 21, fried meat_beef, 18, oregano, 93
+Baking, 63, toon offset, 87, rare forge, 43, frying_pan, 75, roasted cucumber, 21, fried meat_canine, 19, oregano, 93
+Beverages, 64, toon offset, 87, rare forge, 43, frying_pan, 75, roasted cucumber, 21, fried meat_feline, 20, oregano, 93
+Longsword, 65, toon offset, 87, rare forge, 43, frying_pan, 75, fried cucumber, 18, fried meat_horse, 24, oregano, 93
+Large maul, 66, toon offset, 87, rare forge, 43, frying_pan, 75, roasted pea, 62, fried meat_game, 23, paprika, 51
+Medium maul, 67, toon offset, 87, rare forge, 43, frying_pan, 75, roasted cucumber, 21, fried meat_game, 23, oregano, 93
+Small maul, 68, toon offset, 87, rare forge, 43, frying_pan, 75, roasted cucumber, 21, fried meat_horse, 24, oregano, 93
+Warhammer, 69, toon offset, 87, rare forge, 43, frying_pan, 75, roasted pea, 62, fried meat_humanoid, 26, paprika, 51
+Long spear, 70, toon offset, 87, rare forge, 43, frying_pan, 75, roasted cucumber, 21, fried meat_humanoid, 26, oregano, 93
+Halberd, 71, toon offset, 87, rare forge, 43, frying_pan, 75, roasted cucumber, 21, fried meat_insect, 27, oregano, 93
+Staff, 72, toon offset, 87, rare forge, 43, frying_pan, 75, fried cucumber, 18, fried meat_snake, 31, oregano, 93
+Carving knife, 73, toon offset, 87, rare forge, 43, frying_pan, 75, fried cucumber, 18, fried meat_tough, 32, oregano, 93
+Butchering knife, 74, toon offset, 87, rare forge, 43, frying_pan, 75, fried cucumber, 18, fried meat_bear, 17, chopped oregano, 109
+Stone chisel, 75, toon offset, 87, rare forge, 43, frying_pan, 75, roasted cucumber, 21, fried meat_snake, 31, oregano, 93
+Huge club, 76, toon offset, 87, rare forge, 43, frying_pan, 75, roasted cucumber, 21, fried meat_tough, 32, oregano, 93
+Saw, 77, toon offset, 87, rare forge, 43, frying_pan, 75, roasted cucumber, 21, fried meat_bear, 17, chopped oregano, 109
+Butchering, 78, toon offset, 87, rare forge, 43, frying_pan, 75, roasted cucumber, 21, fried meat_beef, 18, chopped oregano, 109
+Carpentry, 79, toon offset, 87, rare forge, 43, frying_pan, 75, roasted cucumber, 21, fried meat_canine, 19, chopped oregano, 109
+Firemaking, 80, toon offset, 87, rare forge, 43, frying_pan, 75, roasted cucumber, 21, fried meat_feline, 20, chopped oregano, 109
+Tracking, 81, toon offset, 87, rare forge, 43, frying_pan, 75, fried cucumber, 18, fried meat_horse, 24, chopped oregano, 109
+Small wooden shield, 82, toon offset, 87, rare forge, 43, frying_pan, 75, fried carrot, 42, fried meat_bear, 17, oregano, 93
+Medium wooden shield, 83, toon offset, 87, rare forge, 43, frying_pan, 75, fried carrot, 42, fried meat_beef, 18, oregano, 93
+Large wooden shield, 84, toon offset, 87, rare forge, 43, frying_pan, 75, fried tomato, 44, fried meat_bear, 17, oregano, 93
+Small metal shield, 85, toon offset, 87, rare forge, 43, frying_pan, 75, fried corn, 45, fried meat_bear, 17, oregano, 93
+Large metal shield, 86, toon offset, 87, rare forge, 43, frying_pan, 75, fried corn, 45, fried meat_beef, 18, oregano, 93
+Medium metal shield, 87, toon offset, 87, rare forge, 43, frying_pan, 75, fried corn, 45, fried meat_canine, 19, oregano, 93
+Large axe, 88, toon offset, 87, rare forge, 43, frying_pan, 75, roasted corn, 48, fried meat_bear, 17, oregano, 93
+Huge axe, 89, toon offset, 87, rare forge, 43, frying_pan, 75, roasted corn, 48, fried meat_beef, 18, oregano, 93
+Shortsword, 90, toon offset, 87, rare forge, 43, frying_pan, 75, roasted corn, 48, fried meat_canine, 19, oregano, 93
+Two handed sword, 91, toon offset, 87, rare forge, 43, frying_pan, 75, roasted corn, 48, fried meat_feline, 20, oregano, 93
+Hammer, 92, toon offset, 87, rare forge, 43, frying_pan, 75, fried corn, 45, fried meat_horse, 24, oregano, 93
+Paving, 93, toon offset, 87, rare forge, 43, frying_pan, 75, roasted tomato, 47, fried meat_game, 23, oregano, 93
+Prospecting, 94, toon offset, 87, rare forge, 43, frying_pan, 75, roasted corn, 48, fried meat_game, 23, oregano, 93
+Fishing, 95, toon offset, 87, rare forge, 43, frying_pan, 75, roasted corn, 48, fried meat_horse, 24, oregano, 93
+Locksmithing, 96, toon offset, 87, rare forge, 43, frying_pan, 75, roasted tomato, 47, fried meat_humanoid, 26, oregano, 93
+Repairing, 97, toon offset, 87, rare forge, 43, frying_pan, 75, roasted corn, 48, fried meat_humanoid, 26, oregano, 93
+Coal-making, 98, toon offset, 87, rare forge, 43, frying_pan, 75, roasted corn, 48, fried meat_insect, 27, oregano, 93
+Milling, 99, toon offset, 87, rare forge, 43, frying_pan, 75, fried pea, 59, fried meat_bear, 17, oregano, 93
+Metallurgy, 100, toon offset, 87, rare forge, 43, frying_pan, 75, fried pea, 59, fried meat_beef, 18, oregano, 93
+Natural substances, 101, toon offset, 87, rare forge, 43, frying_pan, 75, fried pea, 59, fried meat_canine, 19, oregano, 93
+Jewelry smithing, 102, toon offset, 87, rare forge, 43, frying_pan, 75, roasted pea, 62, fried meat_bear, 17, oregano, 93
+Fine carpentry, 103, toon offset, 87, rare forge, 43, frying_pan, 75, roasted pea, 62, fried meat_beef, 18, oregano, 93
+Bowyery, 104, toon offset, 87, rare forge, 43, frying_pan, 75, roasted pea, 62, fried meat_canine, 19, oregano, 93
+Fletching, 105, toon offset, 87, rare forge, 43, frying_pan, 75, roasted pea, 62, fried meat_feline, 20, oregano, 93
+Yoyo, 106, toon offset, 87, rare forge, 43, frying_pan, 75, fried pea, 59, fried meat_horse, 24, oregano, 93
+Puppeteering, 107, toon offset, 87, rare forge, 43, frying_pan, 75, roasted corn, 48, fried meat_feline, 20, chopped oregano, 109
+Toy making, 108, toon offset, 87, rare forge, 43, frying_pan, 75, roasted pea, 62, fried meat_game, 23, oregano, 93
+Weaponless fighting, 109, toon offset, 87, rare forge, 43, frying_pan, 75, roasted pea, 62, fried meat_horse, 24, oregano, 93
+Aggressive fighting, 110, toon offset, 87, rare forge, 43, frying_pan, 75, roasted corn, 48, fried meat_game, 23, chopped oregano, 109
+Defensive fighting, 111, toon offset, 87, rare forge, 43, frying_pan, 75, roasted pea, 62, fried meat_humanoid, 26, oregano, 93
+Normal fighting, 112, toon offset, 87, rare forge, 43, frying_pan, 75, roasted pea, 62, fried meat_insect, 27, oregano, 93
+First aid, 113, toon offset, 87, rare forge, 43, frying_pan, 75, fried pea, 59, fried meat_snake, 31, oregano, 93
+Taunting, 114, toon offset, 87, rare forge, 43, frying_pan, 75, fried pea, 59, fried meat_tough, 32, oregano, 93
+Shield bashing, 115, toon offset, 87, rare forge, 43, frying_pan, 75, fried pea, 59, fried meat_bear, 17, chopped oregano, 109
+Milking, 116, toon offset, 87, rare forge, 43, frying_pan, 75, roasted pea, 62, fried meat_snake, 31, oregano, 93
+Preaching, 117, toon offset, 87, rare forge, 43, frying_pan, 75, roasted pea, 62, fried meat_tough, 32, oregano, 93
+Prayer, 118, toon offset, 87, rare forge, 43, frying_pan, 75, roasted pea, 62, fried meat_bear, 17, chopped oregano, 109
+Channeling, 119, toon offset, 87, rare forge, 43, frying_pan, 75, roasted pea, 62, fried meat_beef, 18, chopped oregano, 109
+Exorcism, 120, toon offset, 87, rare forge, 43, frying_pan, 75, roasted pea, 62, fried meat_canine, 19, chopped oregano, 109
+Archaeology, 121, toon offset, 87, rare forge, 43, frying_pan, 75, roasted pea, 62, fried meat_feline, 20, chopped oregano, 109
+Foraging, 122, toon offset, 87, rare forge, 43, frying_pan, 75, fried pea, 59, fried meat_horse, 24, chopped oregano, 109
+Botanizing, 123, toon offset, 87, rare forge, 43, frying_pan, 75, roasted onion, 95, fried meat_snake, 31, ground paprika, 67
+Climbing, 124, toon offset, 87, rare forge, 43, frying_pan, 75, roasted pea, 62, fried meat_game, 23, chopped oregano, 109
+Stone cutting, 125, toon offset, 87, rare forge, 43, frying_pan, 75, roasted pea, 62, fried meat_horse, 24, chopped oregano, 109
+Lock picking, 126, toon offset, 87, rare forge, 43, frying_pan, 75, fried pea, 59, fried meat_horse, 24, chopped belladonna, 113
+Stealing, 127, toon offset, 87, rare forge, 43, frying_pan, 75, roasted pea, 62, fried meat_humanoid, 26, chopped oregano, 109
+Traps, 128, toon offset, 87, rare forge, 43, frying_pan, 75, roasted pea, 62, fried meat_insect, 27, chopped oregano, 109
+Catapults, 129, toon offset, 87, rare forge, 43, frying_pan, 75, fried pea, 59, fried meat_snake, 31, chopped oregano, 109
+Animal taming, 130, toon offset, 87, rare forge, 43, frying_pan, 75, fried pea, 59, fried meat_tough, 32, chopped oregano, 109
+Animal husbandry, 131, toon offset, 87, rare forge, 43, frying_pan, 75, roasted pea, 62, fried meat_humanoid, 26, chopped belladonna, 113
+Short bow, 132, toon offset, 87, rare forge, 43, frying_pan, 75, roasted pea, 62, fried meat_snake, 31, chopped oregano, 109
+Long bow, 133, toon offset, 87, rare forge, 43, frying_pan, 75, roasted pea, 62, fried meat_tough, 32, chopped oregano, 109
+Medium bow, 134, toon offset, 87, rare forge, 43, frying_pan, 75, fried garlic, 93, fried meat_beef, 18, oregano, 93
+Ship building, 135, toon offset, 87, rare forge, 43, frying_pan, 75, fried garlic, 93, fried meat_canine, 19, oregano, 93
+Cartography, 136, toon offset, 87, rare forge, 43, frying_pan, 75, roasted garlic, 96, fried meat_bear, 17, oregano, 93
+Trebuchets, 137, toon offset, 87, rare forge, 43, frying_pan, 75, roasted garlic, 96, fried meat_beef, 18, oregano, 93
+Restoration, 138, toon offset, 87, rare forge, 43, frying_pan, 75, roasted garlic, 96, fried meat_canine, 19, oregano, 93

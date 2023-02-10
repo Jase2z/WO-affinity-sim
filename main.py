@@ -1,7 +1,11 @@
 import itertools as it
 import json
 import pathlib
+import concurrent.futures
 from dataclasses import dataclass
+from typing import Generator
+from multiprocessing import Lock
+from collections import namedtuple
 
 
 @dataclass
@@ -63,14 +67,34 @@ class FoodStates:
             return []
 
 
-class Recipe:
+rec_gen_val = namedtuple("rec_gen_val", ["gen", "rec"])
 
+def _rec_iter(x:rec_gen_val):
+    for recipe in x.gen:
+        _sum = 0
+        for ingredient in recipe:
+            _sum = _sum + ingredient[1]
+        affinity_num = (_sum % 138) + 1
+        _aff = str(affinity_num)
+        _rec_len = len(recipe)
+        with x.rec._lock:
+            if _aff in x.rec.matches.keys():
+                continue
+            if _rec_len > x.rec.recipe_length:
+                x.rec.recipe_length = len(recipe)
+            x.rec.matches[str(affinity_num)] = recipe
+            print(f"Size:{len(x.rec.matches.keys())}   {x.rec.matches.keys()}")
+            if len(x.rec.matches.keys()) == 138:
+                return
+
+class Recipe:
     # init method or constructor
     def __init__(self, file_name):
         self.fileName = file_name
         self.filepathJson = pathlib.Path.cwd() / self.fileName / f"{self.fileName}.json"
         self.matches = {}
         self.match_recipes = []
+        self._lock = Lock()
         if self.filepathJson.exists():
             with self.filepathJson.open("r", encoding="utf-8") as f:
                 try:
@@ -87,21 +111,17 @@ class Recipe:
         for values in self.matches.values():
             if len(values) > self.recipe_length:
                 self.recipe_length = len(values)
-
-    def simulate(self, ingredients):
-        simulated_recipes = list(it.product(*ingredients))
-        for recipe in simulated_recipes:
-            _sum = 0
-            for ingredient in recipe:
-                _sum = _sum + ingredient[1]
-            affinity_num = (_sum % 138) + 1
-            if str(affinity_num) in self.matches.keys():
-                continue
-            if len(recipe) > self.recipe_length:
-                self.recipe_length = len(recipe)
-            self.matches[str(affinity_num)] = recipe
-        # print(f"Size:{len(self.matches.keys())}   {self.matches.keys()}")
-
+    
+    def simulate(self, ingredients: list):
+        rec_combo = (e for e in it.product(*ingredients))
+        # simulated_recipes = list(it.product(*ingredients))
+        _values = rec_gen_val(gen=(e for e in it.product(*ingredients)), rec=self)
+        
+        #_rec_iter(_values)
+        #print(_values)
+        with concurrent.futures.ProcessPoolExecutor() as executor:
+            executor.map(_rec_iter, _values) 
+                
         with self.filepathJson.open("w", encoding="utf-8") as f:
             json.dump(self.matches, f)
 
@@ -145,10 +165,13 @@ def unfermented_moonshine():
     # [["Ogare", 92]]
     cookers = [["oven", 178], ["rare oven", 179]]
     containers = [["cauldron", 351]]
-    water = [["water", 6]]
+    water = [["water", 6], ["salt water", 16]]
     sugar = [["sugar", 47]]
-    oats10 = [["oat10", 250]]  # Oats have the highest fats of ingredients.
     grain = [["wheat", 25], ["barley", 23], ["oat", 25], ["rye", 23]]
+    wheat = [["wheat", 25]]
+    barley = [["barley", 23]]
+    oat = [["oat", 25]]
+    rye = [["rye", 23]]
     pea = [["roasted pea", 62], ["fried pea", 59]]
     corn = [["roasted corn", 48], ["fried corn", 45]]
     garlic = [["roasted garlic", 96], ["fried garlic", 93]]
@@ -161,10 +184,15 @@ def unfermented_moonshine():
     lettuce = [["roasted lettuce", 49], ["fried lettuce", 46]]
     pumpkin = [["roasted pumpkin", 49], ["fried pumpkin", 46]]
     cabbage = [["roasted cabbage", 46], ["fried cabbage", 43]]
-    ingredients = [toon, cookers, containers, water, sugar, oats10, grain, 
-                    grain, grain, grain, pea, corn, corn, corn, garlic, tomato, 
+
+    weight = [["roasted pumpkin", 49], ["fried pumpkin", 46], ["roasted cabbage", 46], ["fried cabbage", 43]]
+    
+    ingredients = [toon, cookers, containers, water, sugar, wheat, 
+                    barley, oat, rye, pea, corn, garlic, tomato, 
                     pea_pods, carrot, cucumber, onion, potato, lettuce, pumpkin, 
-                    cabbage]
+                    cabbage, weight, weight, weight, weight, weight, weight,
+                    weight, weight, weight, weight, weight, weight, 
+                    weight]
     unf_moonshine_recipes = Recipe("unf moonshine")
     unf_moonshine_recipes.simulate(ingredients)
 

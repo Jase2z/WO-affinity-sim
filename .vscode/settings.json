@@ -1,14 +1,18 @@
 {
     "cSpell.words": [
+        "aiter",
+        "fromiter",
+        "ndarray",
+        "nditer",
         "Ogare",
         "toon"
     ],
     "[git-commit]": {"editor.rulers": [50]},
     "[python]": {
         "editor.rulers": [
-            79,
+            72,
             120
         ],
+
     },
-    "editorRuler.foreground": "#ff4081"
 }

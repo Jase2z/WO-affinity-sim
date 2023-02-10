@@ -4,7 +4,8 @@ cookers = [["oven", 178], ["campfire", 37], ["rare oven", 179],
             ["supreme oven", 180]]
 
 # containers
-# ["pottery bowl", 77], ["frypan", 75], ["cauldron", 75], ["plate", 69]
+# ["pottery bowl", 77], ["frypan", 75], ["cauldron", 75], ["plate", 69], ["roasting dish", 1169]
+# ["baking stone", 1167]
 containers = [["pottery bowl", 77], ["cauldron", 75]]
 
 # make breakfast: oven 178, pottery bowl 77,
@@ -109,4 +110,101 @@ teaHerbs = [["chopped lovage", 105], ["chopped rosemary", 115],
 
 # cooked fries = 118 (template 1203, material veg 22, realtemplate -10, cstate 7) % 138
 
+Meat broth
+broth item template # 1268, template material water 26 (note the template material is over written by recipe).
+"name":"meat broth",
+"recipeid":"831",
+"result":{
+    "id":"broth",
+    "name":"$ meat broth",
+    "refmaterial":"any meat",
+        bear 72, beef 73, canine 74, feline 75, dragon 76, fowl 77,
+        game 78, horse 79, human 80, humanoid 81, insect 82, lamb 83,
+        pork 84, seafood 85, snake 86, tough 87
 
+    "realtemplate":"meat",
+        meat item template # 92
+    "difficulty":20,
+    "description":"A basic meat broth."
+}
+bear meat broth = ?? (template 1268, material bear 72, realtemplate meat 92, no states) % 138
+
+
+bear meat diced = 32 (template meat 92, material bear 72, realtemplate none -10, state diced 16) % 138
+insect meat diced = 42 (template meat 92, material insect 82, realtemplate none -10, state diced 16) % 138
+fowl meat diced = 37 (template meat 92, material fowl 77, realtemplate none -10, state diced 16) % 138
+
+stock = 118 (template 1210, material vegetarian 22, realtemplate none -10) % 138
+stock item template # 1210, template materials vegetarian 22
+"name":"stock",
+"recipeid":"728",
+"result":{
+    "id":"stock",
+    "difficulty":10
+}
+
+
+corn oil = 8 (template cooking oil 1193, template material oil 25 , realtemplate corn 32) % 138
+"name":"corn oil",
+"recipeid":"556",
+"result":{
+    "id":"cooking oil",
+    "name":"# oil",
+    "realtemplate":"corn",
+    "difficulty":15
+}
+
+
+cotton seed oil = 121 (template cooking oil 1193, template material 25, realtemplate cotton seed 145) % 138
+"name":"cotton seed oil",
+"recipeid":"557",
+"result":{
+    "id":"cooking oil",
+    "name":"# oil",
+    "realtemplate":"cotton seed",
+    "difficulty":25
+}
+
+
+dough item template 200, template material 0
+"name":"dough",
+"recipeid":"507",
+"result":{
+    "id":"dough",
+    "refmaterial":"flour",
+        material templates: rye 3, oat 4, barley 5, wheat 6
+        # these item templates are wrong: wheat 29, barley 28, oat 31, rye 30
+    "name":"$ dough",
+    "difficulty":10
+}
+
+
+flour item template 201, template material 0
+"name":"flour",
+"recipeid":"504",
+"known":true,
+"skill":"milling",
+"active":{"id":"grindstone"},
+"target":{"id":"any cereal"},  
+"result":{
+    "id":"flour",
+    "name":"$ flour",
+    "refmaterial":"any cereal",
+        material templates: rye 3, oat 4, barley 5, wheat 6
+    "difficulty":5,
+    "description":"Flour made from ground $."
+}
+
+bread item template 203, template material 22
+waybread, oat = 1 (template bread 203, material oat 4, realtemplate honey 70 )
+"name":"waybread",
+"recipeid":"763",
+"result":{
+    "id":"bread",
+    "name":"waybread",
+    "realtemplate":"honey",
+    "refmaterial":"dough",
+    "difficulty":50,
+    "achievement":"bread maker",
+    "description":"Also known as lembas, one of these will keep even tall men going after a long day of grinding."
+}

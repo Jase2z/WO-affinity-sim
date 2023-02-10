@@ -1,0 +1,11 @@
+[
+    {"recipe_name": "meal meat"},
+    {"toon_offset": 87},
+    {"cooker": ["rare forge"]},
+    {"container": ["frying_pan"]},
+    {"ingredients": ["roasted pea", "fried pea", "roasted corn", "fried corn", "roasted garlic", "fried garlic", "roasted tomato", "fried tomato", "roasted pea pods", "fried pea pods", "roasted carrot", "fried carrot", "roasted cucumber", "fried cucumber", "roasted onion", "fried onion", "roasted potato", "fried potato", "roasted lettuce", "fried lettuce", "roasted pumpkin", "fried pumpkin", "roasted cabbage", "fried cabbage"]},
+    {"ingredients": ["fried meat_bear", "fried meat_bear", "fried meat_beef", "fried meat_beef", "fried meat_canine", "fried meat_canine", "fried meat_feline", "fried meat_feline", "fried meat_game", "fried meat_game", "fried meat_horse", "fried meat_horse", "fried meat_humanoid", "fried meat_humanoid", "fried meat_insect", "fried meat_insect", "fried meat_snake", "fried meat_snake", "fried meat_tough", "fried meat_tough"]},
+    {"ingredients": ["ground paprika", "paprika"]},
+    {"ingredients": ["chopped belladonna", "belladonna"]},
+    {"ingredients": ["chopped oregano", "oregano"]}
+]

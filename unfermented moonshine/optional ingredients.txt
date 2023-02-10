@@ -1,0 +1,3 @@
+{"ingredients": ["garlic", "chopped garlic", "mashed garlic", "roasted garlic", "fried garlic"]}
+{"ingredients": ["carrot", "chopped carrot", "mashed carrot", "roasted carrot", "fried carrot"]}
+{"ingredients": ["cucumber", "chopped cucumber", "mashed cucumber", "roasted cucumber", "fried cucumber"]}
